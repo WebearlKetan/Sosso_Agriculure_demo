@@ -4231,7 +4231,7 @@ Search Overlay CSS
       top: 0;
       height: 100%;
       width: 370px;
-      background-image: url(../images/questions-thumb.png);
+      background-image: url(../images/image1.webp);
       background-size: cover;
       background-position: center;
       background-repeat: no-repeat; }
@@ -5791,7 +5791,6 @@ Search Overlay CSS
     top: 0;
     height: 100%;
     width: 37%;
-    background-image: url(../images/contact-bg.jpg);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat; }
